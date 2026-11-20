@@ -1,0 +1,58 @@
+{
+  "versions": [
+    "version",
+    "url",
+    "evidence",
+    "shown_from",
+    "shown_until",
+    "kind"
+  ],
+  "claims": [
+    "claim",
+    "skill",
+    "stage",
+    "core"
+  ],
+  "opportunities": [
+    "student",
+    "claim",
+    "teacher",
+    "due"
+  ],
+  "seen": [
+    "student",
+    "version",
+    "day"
+  ],
+  "submissions": [
+    "submission",
+    "student",
+    "claim",
+    "day"
+  ],
+  "citations": [
+    "submission",
+    "version",
+    "judgment",
+    "minute"
+  ],
+  "relations": [
+    "dispute",
+    "left",
+    "right",
+    "state",
+    "day"
+  ],
+  "feedback": [
+    "submission",
+    "teacher",
+    "day",
+    "note"
+  ],
+  "review_slots": [
+    "slot",
+    "day",
+    "teacher",
+    "locked_dispute"
+  ]
+}

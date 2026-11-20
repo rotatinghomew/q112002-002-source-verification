@@ -1,0 +1,68 @@
+[
+  {
+    "submission": "a1",
+    "version": "v1",
+    "judgment": "支持",
+    "minute": 7
+  },
+  {
+    "submission": "a2",
+    "version": "v3",
+    "judgment": "支持",
+    "minute": 13
+  },
+  {
+    "submission": "a2",
+    "version": "v4",
+    "judgment": "支持",
+    "minute": 13
+  },
+  {
+    "submission": "a3",
+    "version": "v5",
+    "judgment": "支持",
+    "minute": 8
+  },
+  {
+    "submission": "a4",
+    "version": "v2",
+    "judgment": "部分",
+    "minute": 13
+  },
+  {
+    "submission": "a5",
+    "version": "v3",
+    "judgment": "待定",
+    "minute": 8
+  },
+  {
+    "submission": "a6",
+    "version": "v4",
+    "judgment": "支持",
+    "minute": 16
+  },
+  {
+    "submission": "a6",
+    "version": "v6",
+    "judgment": "支持",
+    "minute": 20
+  },
+  {
+    "submission": "a7",
+    "version": "v5",
+    "judgment": "支持",
+    "minute": 7
+  },
+  {
+    "submission": "a8",
+    "version": "v1",
+    "judgment": "相反",
+    "minute": 15
+  },
+  {
+    "submission": "a9",
+    "version": "v5",
+    "judgment": "部分",
+    "minute": 7
+  }
+]

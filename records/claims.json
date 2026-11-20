@@ -1,0 +1,26 @@
+[
+  {
+    "claim": "p1",
+    "skill": "出处",
+    "stage": 1,
+    "core": "raw1"
+  },
+  {
+    "claim": "p2",
+    "skill": "出处",
+    "stage": 2,
+    "core": "s4"
+  },
+  {
+    "claim": "p3",
+    "skill": "比对",
+    "stage": 1,
+    "core": "raw5"
+  },
+  {
+    "claim": "p4",
+    "skill": "比对",
+    "stage": 2,
+    "core": "raw2"
+  }
+]

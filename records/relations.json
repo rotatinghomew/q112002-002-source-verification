@@ -1,0 +1,44 @@
+[
+  {
+    "dispute": "d1",
+    "left": "s3",
+    "right": "raw1",
+    "state": "confirmed",
+    "day": 3
+  },
+  {
+    "dispute": "d2",
+    "left": "s4",
+    "right": "raw1",
+    "state": "pending",
+    "day": 16
+  },
+  {
+    "dispute": "d2",
+    "left": "s4",
+    "right": "raw1",
+    "state": "confirmed",
+    "day": 20
+  },
+  {
+    "dispute": "d3",
+    "left": "raw2",
+    "right": "raw5",
+    "state": "pending",
+    "day": 16
+  },
+  {
+    "dispute": "d3",
+    "left": "raw2",
+    "right": "raw5",
+    "state": "discarded",
+    "day": 21
+  },
+  {
+    "dispute": "d4",
+    "left": "s4",
+    "right": "raw6",
+    "state": "pending",
+    "day": 20
+  }
+]

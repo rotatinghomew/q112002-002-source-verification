@@ -1,0 +1,26 @@
+[
+  {
+    "slot": "r1",
+    "day": 18,
+    "teacher": "东",
+    "locked_dispute": "d3"
+  },
+  {
+    "slot": "r2",
+    "day": 18,
+    "teacher": "西",
+    "locked_dispute": null
+  },
+  {
+    "slot": "r3",
+    "day": 21,
+    "teacher": "东",
+    "locked_dispute": null
+  },
+  {
+    "slot": "r4",
+    "day": 22,
+    "teacher": "西",
+    "locked_dispute": null
+  }
+]

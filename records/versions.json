@@ -1,0 +1,50 @@
+[
+  {
+    "version": "v1",
+    "url": "/地方周报",
+    "evidence": "raw1",
+    "shown_from": 1,
+    "shown_until": 6,
+    "kind": "原件"
+  },
+  {
+    "version": "v2",
+    "url": "/地方周报",
+    "evidence": "raw2",
+    "shown_from": 7,
+    "shown_until": null,
+    "kind": "更新"
+  },
+  {
+    "version": "v3",
+    "url": "/研究简讯",
+    "evidence": "s3",
+    "shown_from": 2,
+    "shown_until": null,
+    "kind": "节选"
+  },
+  {
+    "version": "v4",
+    "url": "/市图展页",
+    "evidence": "s4",
+    "shown_from": 4,
+    "shown_until": null,
+    "kind": "汇编"
+  },
+  {
+    "version": "v5",
+    "url": "/手册",
+    "evidence": "raw5",
+    "shown_from": 5,
+    "shown_until": null,
+    "kind": "原件"
+  },
+  {
+    "version": "v6",
+    "url": "/复核附录",
+    "evidence": "raw6",
+    "shown_from": 19,
+    "shown_until": null,
+    "kind": "原件"
+  }
+]

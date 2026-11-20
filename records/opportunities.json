@@ -1,0 +1,74 @@
+[
+  {
+    "student": "s1",
+    "claim": "p1",
+    "teacher": "东",
+    "due": 6
+  },
+  {
+    "student": "s1",
+    "claim": "p2",
+    "teacher": "东",
+    "due": 15
+  },
+  {
+    "student": "s1",
+    "claim": "p3",
+    "teacher": "东",
+    "due": 6
+  },
+  {
+    "student": "s1",
+    "claim": "p4",
+    "teacher": "东",
+    "due": 15
+  },
+  {
+    "student": "s2",
+    "claim": "p1",
+    "teacher": "西",
+    "due": 6
+  },
+  {
+    "student": "s2",
+    "claim": "p2",
+    "teacher": "西",
+    "due": 15
+  },
+  {
+    "student": "s2",
+    "claim": "p3",
+    "teacher": "西",
+    "due": 6
+  },
+  {
+    "student": "s2",
+    "claim": "p4",
+    "teacher": "西",
+    "due": 15
+  },
+  {
+    "student": "s3",
+    "claim": "p1",
+    "teacher": "西",
+    "due": 6
+  },
+  {
+    "student": "s3",
+    "claim": "p2",
+    "teacher": "西",
+    "due": 15
+  },
+  {
+    "student": "s3",
+    "claim": "p3",
+    "teacher": "西",
+    "due": 6
+  },
+  {
+    "student": "s3",
+    "claim": "p4",
+    "teacher": "西",
+    "due": 15
+  }
+]

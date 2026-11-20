@@ -1,0 +1,56 @@
+[
+  {
+    "submission": "a1",
+    "student": "s1",
+    "claim": "p1",
+    "day": 5
+  },
+  {
+    "submission": "a2",
+    "student": "s1",
+    "claim": "p2",
+    "day": 11
+  },
+  {
+    "submission": "a3",
+    "student": "s1",
+    "claim": "p3",
+    "day": 6
+  },
+  {
+    "submission": "a4",
+    "student": "s1",
+    "claim": "p4",
+    "day": 12
+  },
+  {
+    "submission": "a5",
+    "student": "s2",
+    "claim": "p1",
+    "day": 5
+  },
+  {
+    "submission": "a6",
+    "student": "s2",
+    "claim": "p2",
+    "day": 15
+  },
+  {
+    "submission": "a7",
+    "student": "s2",
+    "claim": "p3",
+    "day": 6
+  },
+  {
+    "submission": "a8",
+    "student": "s2",
+    "claim": "p4",
+    "day": 14
+  },
+  {
+    "submission": "a9",
+    "student": "s3",
+    "claim": "p3",
+    "day": 6
+  }
+]

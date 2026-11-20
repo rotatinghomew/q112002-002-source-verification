@@ -1,0 +1,27 @@
+[
+  {
+    "student": "s1",
+    "version": "v1",
+    "day": 4
+  },
+  {
+    "student": "s1",
+    "version": "v5",
+    "day": 9
+  },
+  {
+    "student": "s2",
+    "version": "v3",
+    "day": 3
+  },
+  {
+    "student": "s2",
+    "version": "v6",
+    "day": 19
+  },
+  {
+    "student": "s3",
+    "version": "v5",
+    "day": 4
+  }
+]
